@@ -9,7 +9,7 @@
 <h2 align="center">** Language **:man_technologist:</h2>
 
 <img src="http://img.shields.io/badge/-C-Sharp?style=flat&logo=C%20Sharp&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=#8B0000">
 <img src="http://img.shields.io/badge/-Java-script?style=flat&logo=Java%20script&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Php?style=flat&logo=Php&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Shell?style=flat&logo=Shell&logoColor=FFFFFF">
