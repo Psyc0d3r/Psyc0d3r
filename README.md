@@ -14,12 +14,10 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:2px">
 
-<h2 align="center">Visitor's count :eyes:</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{psyc0d3r}/count.svg" alt="psyc0d3r :: Visitor's Count" /></p>
-
 <h2 align="center">Github stats 📊 </h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=psyc0d3r&show_icons=true&theme=synthwave" alt="psyc0d3r :: Profile Stats" /></p>
 
+<h3 align="center">Visitor's count :eyes:</h3>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{psyc0d3r}/count.svg" alt="psyc0d3r :: Visitor's Count" /></p>
