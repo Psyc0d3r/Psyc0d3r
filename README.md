@@ -12,8 +12,11 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-C-Sharp?style=flat&logo=C%20Sharp&logoColor=FFFFFF">
 
+
+<h2 align="center">Tech & Tools Preference :man_technologist:</h2>
+
+<img src="http://img.shields.io/badge/-C-Sharp?style=flat&logo=C%20Sharp&logoColor=Red">
 
 <h2 align="center">Github stats 📊 </h2>
 
