@@ -14,7 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">You can find in me in the web 🌍</h2>
+
 <h2 align="center">Tech & Tools Preference :man_technologist:</h2>
+
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg">
+<img src="">
+<img src="">
+<img src="">
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
