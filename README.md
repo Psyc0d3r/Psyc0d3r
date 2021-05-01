@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyc0d3r&langs_count=10&theme=tokyonight&layout=compact" alt="psyc0d3r :: Top Langs" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=psyc0d3r&show_icons=true&theme=synthwave" alt="psyc0d3r :: Profile Stats" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psyc0d3r&show_owner&hide=contribs,prs&theme=cobalt)
-<a href="https://github.com/Psyc0d3r">
