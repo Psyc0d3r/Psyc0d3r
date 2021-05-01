@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-  <img align="center" src="https://img.shields.io/github/followers/psyc0d3r?color=Red&logoColor=heavy%20blue&style=social" />
-</a>
 
 <h2 align="center">You can find in me in the web 🌍</h2>
 
