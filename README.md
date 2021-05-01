@@ -8,7 +8,7 @@
 
 <h2 align="center"> < Language > :man_technologist:</h2>
 
-<img src="http://img.shields.io/badge/-C-Sharp?style=flat&logo=C%20Sharp&logoColor=Red">
+<img src="http://img.shields.io/badge/-C-Sharp?style=flat&logo=C%20Sharp&logoColor=R2F4F4F">
 <img src="http://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=1E90FF&Color=00BFFF">
 <img src="http://img.shields.io/badge/-Java-script?style=flat&logo=Java%20script&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Php?style=flat&logo=Php&logoColor=FFFFFF">
