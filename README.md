@@ -1,8 +1,6 @@
 ## Hi I'am Psyc0d3r
 • I learn Cyber Security Analyst and you can find to many Pentrest-Testing-tools & Scripts & Cheat-Sheat in my Repostories and Stars •
-<h2 Align = CENTER> < My Interests Are Mostly > <h2/> 
-
-Visual Studio & Python & Bash & Kali Linux 
+# • My Interests Are Mostly : Visual Studio & Python & Bash & Kali Linux •
 
 <h2 align="center"> < Github Statistics > 📊:eyes:</h2>
 
